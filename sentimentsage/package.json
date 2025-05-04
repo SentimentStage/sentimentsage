@@ -1,0 +1,24 @@
+{
+  "name": "sentimentsage",
+  "version": "1.0.0",
+  "description": "SentimentSage project for sentiment analysis and web deployment",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "gh-pages": "^6.3.0",
+    "vite": "^6.3.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SentimentStage/sentimentsage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SentimentStage/sentimentsage/issues"
+  },
+  "homepage": "https://SentimentStage.github.io/sentimentsage"
+}
